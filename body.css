@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+figure{
+    width: 861px;
+    margin: 0px;
+}
+.top {
+    margin: 10px;
+}
+.firstWord {
+    color: rgb(23, 69, 167);
+    font-size: 200%;
+    position: relative;
+}
+.totalWar {
+    width: 861px
+}
